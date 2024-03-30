@@ -1,0 +1,407 @@
+<button
+  appSidebarToggle
+  data-drawer-target="default-sidebar"
+  data-drawer-toggle="default-sidebar"
+  aria-controls="default-sidebar"
+  class="inline-flex items-center p-2 mt-2 ms-3 text-sm text-gray-500 rounded-lg sm:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+>
+  <span class="sr-only">Open sidebar</span>
+  <svg
+    class="w-6 h-6"
+    aria-hidden="true"
+    fill="currentColor"
+    viewBox="0 0 20 20"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      clip-rule="evenodd"
+      fill-rule="evenodd"
+      d="M2 4.75A.75.75 0 012.75 4h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 4.75zm0 10.5a.75.75 0 01.75-.75h7.5a.75.75 0 010 1.5h-7.5a.75.75 0 01-.75-.75zM2 10a.75.75 0 01.75-.75h14.5a.75.75 0 010 1.5H2.75A.75.75 0 012 10z"
+    ></path>
+  </svg>
+</button>
+
+<aside
+  id="default-sidebar"
+  class="fixed top-0 left-0 z-40 w-72 h-screen transition-transform -translate-x-full sm:translate-x-0"
+  aria-label="Sidebar"
+>
+  <div class="h-full px-3 py-4 overflow-y-auto bg-gray-50 dark:bg-gray-800">
+    <div class="flex items-center ps-2.5 mb-5">
+      <img
+        [src]="usuarioActual.ImagenUrl || imagen"
+        class="h-6 me-3 sm:h-7 rounded-3"
+        alt="Flowbite Logo"
+      />
+      <span
+        class="self-center text-xl font-semibold whitespace-nowrap dark:text-white"
+        >{{ usuarioActual.Nombre || "usuario" }}</span
+      >
+      <button
+      data-bs-toggle="modal"
+      data-bs-target="#exampleModal"
+      class="ml-5 items-center p-1 text-gray-900 transition duration-75 rounded-lg pl-11 group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+    >
+      <i class="fa-solid fa-pencil"></i>
+    </button>
+
+    </div>
+
+    <ul class="space-y-2 font-medium">
+      <li>
+        <a
+        routerLink="/"
+          (click)="cambiarVista('home')"
+          class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+        >
+          <i class="fa-solid fa-house"></i>
+          <span class="ms-3 text-blue-400 text-2xl">Home</span>
+        </a>
+      </li>
+      <li>
+        <a
+        routerLink="/libros"
+          (click)="cambiarVista('libros')"
+          class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+        >
+          <i class="fa-solid fa-book"></i>
+          <span class="flex-1 text-2xl ms-3 whitespace-nowrap text-blue-400"
+            >Libros</span
+          >
+        </a>
+      </li>
+      <li>
+        <a
+        routerLink="/addLibro"
+          (click)="cambiarVista('addLibros')"
+          class="flex items-center p-2 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group"
+        >
+          <i class="fa-solid fa-book-bookmark"></i>
+          <span class="text-2xl flex-1 ms-3 whitespace-nowrap text-blue-400"
+            >Agregar Libro</span
+          >
+        </a>
+      </li>
+
+      <li>
+        <button
+          (click)="Mostrar(false)"
+          class="flex items-center w-full p-2 text-base text-gray-900 transition duration-75 rounded-lg group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+          aria-controls="dropdown-example"
+          data-collapse-toggle="dropdown-example"
+        >
+          <i class="fa-solid fa-list"></i>
+          <span
+            class="flex-1 text-2xl ms-3 text-left rtl:text-right whitespace-nowrap text-blue-400"
+            >Listas De Lectura</span
+          >
+          <i class="fa-solid fa-circle-arrow-down"></i>
+        </button>
+
+        <div
+          *ngIf="mostrarLista"
+          class="p-4 border-2 border-white border-dashed rounded-lg dark:border-gray-700"
+        >
+          <h1 class="text-white text-2xl mt-2">Listas:</h1>
+          <ul *ngFor="let item of listas" class="py-2 space-y-2">
+            <li>
+              <a
+                *ngIf="!item.editando"
+                class="items-center w-full p-1 text-slate-100 transition duration-75 rounded-lg pl-11 group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+                >{{ item.Nombre }}</a
+              >
+              <button
+                *ngIf="!item.editando"
+                (click)="Eliminar(item.Id, false)"
+                class="ml-10 items-center p-1 text-gray-900 transition duration-75 rounded-lg pl-11 group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+              >
+                <i class="fa-solid fa-trash"></i>
+              </button>
+
+              <!-- Botón de Editar -->
+              <button
+                (click)="activarEdicion(item)"
+                *ngIf="!item.editando"
+                class="ml-5 items-center p-1 text-gray-900 transition duration-75 rounded-lg pl-11 group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+              >
+                <i class="fa-solid fa-pencil"></i>
+              </button>
+
+              <!-- Input de Edición -->
+
+              <div class="messageBox" *ngIf="item.editando">
+                <div class="fileUploadWrapper">
+                  <label for="file">
+                    <i class="bg-white fa-solid fa-circle-xmark"></i>
+                    <span class="tooltip">Cerrar Ventana</span>
+                  </label>
+                  <input (click)="activarEdicion(item)" id="file" name="file" />
+                </div>
+                <input
+                  [(ngModel)]="item.Nombre"
+                  required=""
+                  placeholder="Nombre"
+                  type="text"
+                  id="messageInput"
+                />
+                <button id="sendButton" (click)="ActualizarLista(item)">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 664 663"
+                  >
+                    <path
+                      fill="none"
+                      d="M646.293 331.888L17.7538 17.6187L155.245 331.888M646.293 331.888L17.753 646.157L155.245 331.888M646.293 331.888L318.735 330.228L155.245 331.888"
+                    ></path>
+                    <path
+                      stroke-linejoin="round"
+                      stroke-linecap="round"
+                      stroke-width="33.67"
+                      stroke="#6c6c6c"
+                      d="M646.293 331.888L17.7538 17.6187L155.245 331.888M646.293 331.888L17.753 646.157L155.245 331.888M646.293 331.888L318.735 330.228L155.245 331.888"
+                    ></path>
+                  </svg>
+                </button>
+              </div>
+            </li>
+          </ul>
+          <div class="alert alert-danger mt-2" *ngIf="listas.length == 0">
+            <i class="fa-solid fa-triangle-exclamation"></i> No Hay Listas
+          </div>
+
+          <ul
+            class="pt-4 mt-1 space-y-2 font-medium border-t border-gray-200 dark:border-gray-700"
+          ></ul>
+
+          <button
+            (click)="verCampoAgregar(false)"
+            class="bg-gradient-to-r from-indigo-500 to-blue-500 text-white font-bold py-2 px-3 rounded-md hover:bg-indigo-600 hover:to-blue-600 transition ease-in-out duration-150"
+          >
+            Agregar Lista
+          </button>
+
+          <div *ngIf="campoLista" class="">
+            <div class="row mt-1">
+              <input
+                type="text"
+                name="text"
+                class="input ml-2 mt-3 rounded-3"
+                placeholder="Nombre De la lista"
+                [ngModelOptions]="{ standalone: true }"
+                [(ngModel)]="lista.Nombre"
+              />
+            </div>
+
+            <button
+              title="Save"
+              (click)="Agregar(false)"
+              class="mt-2 cursor-pointer flex items-center fill-lime-400 bg-lime-950 hover:bg-lime-900 active:border active:border-lime-400 rounded-md duration-100 p-2"
+            >
+              <span class="text-sm text-lime-400 font-bold pr-1"
+                >Guardar lista</span
+              >
+            </button>
+          </div>
+        </div>
+      </li>
+
+      <li>
+        <button
+          type="button"
+          (click)="Mostrar()"
+          class="flex items-center mt-2 w-full p-2 text-base text-gray-900 transition duration-75 rounded-lg group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+          aria-controls="dropdown-example"
+          data-collapse-toggle="dropdown-example"
+        >
+          <i class="fa-solid fa-user"></i>
+          <span
+            class="flex-1 text-2xl text-blue-400 ms-3 text-left rtl:text-right whitespace-nowrap"
+            >Usuarios</span
+          >
+          <i class="fa-solid fa-circle-arrow-down"></i>
+        </button>
+
+        <div
+          *ngIf="mostrarUsuarios"
+          class="mt-3 border-white p-4 border-2 border-gray-200 border-dashed rounded-lg dark:border-gray-700"
+        >
+          <h1 class="text-white text-2xl mt-2">Usuarios:</h1>
+          <ul *ngFor="let item of usuarios" class="py-2 space-y-2">
+            <li>
+              <a
+                href="#"
+                
+                (click)="CambiarDeUsuario(item.Id)"
+                class="items-center w-full p-1 text-slate-100 transition duration-75 rounded-lg pl-11 group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+                >{{ item.Nombre }}</a
+              >
+              <button
+                
+                (click)="Eliminar(item.Id)"
+                class="ml-10 items-center p-1 text-gray-900 transition duration-75 rounded-lg pl-11 group hover:bg-gray-100 dark:text-white dark:hover:bg-gray-700"
+              >
+                <i class="fa-solid fa-trash"></i>
+              </button>
+
+              <!-- Input de Edición -->
+
+              
+            </li>
+          </ul>
+
+          <div class="alert alert-danger mt-2" *ngIf="usuarios.length == 0">
+            <i class="fa-solid fa-triangle-exclamation"></i> No Hay Usuarios
+          </div>
+
+          <ul
+            class="pt-4 mt-4 space-y-2 font-medium border-t border-gray-200 dark:border-gray-700"
+          ></ul>
+
+          <!--Parte agregar usuario-->
+          <button
+            (click)="verCampoAgregar()"
+            class="bg-gradient-to-r from-indigo-500 to-blue-500 text-white font-bold py-2 px-4 rounded-md hover:bg-indigo-600 hover:to-blue-600 transition ease-in-out duration-150"
+            type="submit"
+          >
+            Agregar Usuario
+          </button>
+
+          <div *ngIf="campoUsuario">
+            <div class="row mt-1">
+              <input
+                type="text"
+                name="text"
+                class="input ml-2 mt-3 rounded-3"
+                placeholder="Nombre"
+                [ngModelOptions]="{ standalone: true }"
+                [(ngModel)]="usuario.Nombre"
+              />
+
+              <div class="input-group mt-3">
+                <input
+                  type="text"
+                  [ngModelOptions]="{ standalone: true }"
+                  [(ngModel)]="usuario.ImagenUrl"
+                  class="input rounded-3"
+                  placeholder="Imagen Url"
+                />
+                <div class="input-group-append">
+                  <img
+                    [src]="usuario.ImagenUrl || imagen"
+                    class="img-fluid ml-2 rounded-4"
+                    alt="Imagen"
+                    style="max-height: 40px"
+                  />
+                </div>
+              </div>
+            </div>
+
+            <button
+              title="Save"
+              (click)="Agregar()"
+              class="mt-2 cursor-pointer flex items-center fill-lime-400 bg-lime-950 hover:bg-lime-900 active:border active:border-lime-400 rounded-md duration-100 p-2"
+            >
+              <span class="text-sm text-lime-400 font-bold pr-1"
+                >Guardar Usuario</span
+              >
+            </button>
+
+
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</aside>
+
+<div class="p-5 sm:ml-64">
+  <div
+    class="p-4 border-2 border-gray-200 border-dashed rounded-lg dark:border-gray-700"
+  >
+
+<!--
+  <app-Home *ngIf="vista == 'home'"></app-Home>
+  <app-Libros *ngIf="vista == 'libros'"></app-Libros>
+  <app-Agregar-libro *ngIf="vista == 'addLibros'"></app-Agregar-libro>
+-->
+
+<ng-component></ng-component>
+
+  </div>
+</div>
+
+
+
+<div
+  class="modal fade"
+  id="exampleModal"
+  tabindex="-1"
+  aria-labelledby="exampleModalLabel"
+  aria-hidden="true"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Actualizacion De Usuario</h5>
+        <button
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"
+        ></button>
+      </div>
+
+      <div class="modal-body">
+        <div class="input flex flex-col w-full static">
+          <label
+            for="input"
+            class="text-blue-500 text-xs font-semibold relative top-2 ml-[7px] px-[3px] bg-[#e8e8e8] w-fit"
+            >Nombre:</label
+          >
+          <input
+            id="password"
+            [(ngModel)]="usuarioActual.Nombre"
+            type="text"
+            placeholder="Write here..."
+            name="input"
+            class="border-blue-500 input px-[10px] py-[11px] text-xs bg-[#e8e8e8] border-2 rounded-[5px] w-full focus:outline-none placeholder:text-black/25"
+          />
+        </div>
+
+        <div class="input flex flex-col w-full static">
+          <label
+            for="input"
+            class="text-blue-500 text-xs font-semibold relative top-2 ml-[7px] px-[3px] bg-[#e8e8e8] w-fit"
+            >Imagen:</label
+          >
+
+          <div class=" ">
+            <span class="input-group-text">
+              <img class="w-11 h-11 align-center" src={{usuarioActual.ImagenUrl}} alt="imagen">
+            </span>
+            <input
+              type="text"
+              [(ngModel)]="usuarioActual.ImagenUrl"
+              placeholder="Write here..."
+              name="input"
+              class="border-blue-500 input px-[10px] py-[11px] text-xs bg-[#e8e8e8] border-2 rounded-[5px] w-full focus:outline-none placeholder:text-black/25"
+            />
+          </div>
+          
+        
+
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+        <button
+        (click)="ActualizarUsuario()"
+          class="btn btn-primary"
+          data-bs-dismiss="modal"
+        >
+          Actualizar Usuario
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+

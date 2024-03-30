@@ -1,0 +1,34 @@
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Infraestructure.deps.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Infraestructure.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.67FDA242.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\refint\Libreria.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\ref\Libreria.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Infraestructure.deps.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Infraestructure.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\bin\Debug\net8.0\Libreria.Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.67FDA242.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\refint\Libreria.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\Libreria.Infraestructure.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Infraestructure\obj\Debug\net8.0\ref\Libreria.Infraestructure.dll

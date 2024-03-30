@@ -1,0 +1,46 @@
+<form class="flex flex-col items-center justify-center h-screen dark" [formGroup]="libroForm">
+
+  <div class="w-full max-w-md bg-gray-800 rounded-lg shadow-md p-6">
+    <h2 class="text-2xl font-bold text-gray-200 mb-4">{{this.libroId != "" ? "Editar " : "Agregar "}} Libro 
+    
+      <button *ngIf="libroId != ''" (click)="QuitarModoEditar()" class="bg-red-950 text-red-400 border border-red-400 border-b-4 font-medium overflow-hidden relative px-4 py-2 rounded-md hover:brightness-150 hover:border-t-4 hover:border-b active:opacity-75 outline-none duration-300 group">
+      <span class="bg-red-400 shadow-red-400 absolute -top-[150%] left-0 inline-flex w-80 h-[3px] rounded-md opacity-50 group-hover:top-[150%] duration-500 shadow-[0_0_10px_10px_rgba(0,0,0,0.3)]"></span>
+      Quitar Modo Editar
+    </button>
+  
+  </h2>
+
+    <div class="flex flex-col">
+      <div *ngIf="libroForm.controls['Titulo'].touched && libroForm.controls['Titulo'].errors?.['required']" class="text-red-500 ">El título es requerido</div>
+      <input placeholder="Titulo" [(ngModel)]="libro.Titulo"  formControlName="Titulo" required type="text" class="bg-gray-700 text-gray-200 border-0 rounded-md p-2 mb-4 focus:bg-gray-600 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150">
+
+      <div *ngIf="libroForm.controls['Descripcion'].touched && libroForm.controls['Descripcion'].errors?.['required']" class="text-red-500 text-sm">La descripción es requerida</div>
+      <input placeholder="Descripcion" [(ngModel)]="libro.Descripcion" formControlName="Descripcion" required type="text" class="bg-gray-700 text-gray-200 border-0 rounded-md p-2 mb-4 focus:bg-gray-600 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150">
+
+      <div *ngIf="libroForm.controls['Genero'].touched && libroForm.controls['Genero'].errors?.['required']" class="text-red-500 text-sm">El género es requerido</div>
+      <input placeholder="genero" [(ngModel)]="libro.Genero" formControlName="Genero" required type="text" class="bg-gray-700 text-gray-200 border-0 rounded-md p-2 mb-4 focus:bg-gray-600 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150">
+
+      <div *ngIf="libroForm.controls['Autor'].touched && libroForm.controls['Autor'].errors?.['required']" class="text-red-500 text-sm">El autor es requerido</div>
+      <input placeholder="Autor" [(ngModel)]="libro.Autor"  formControlName="Autor" required type="text" class="bg-gray-700 text-gray-200 border-0 rounded-md p-2 mb-4 focus:bg-gray-600 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150">
+
+      <div *ngIf="libroForm.controls['Portada'].touched && libroForm.controls['Portada'].errors?.['required']" class="text-red-500 text-sm">La portada es requerida</div>
+      <input placeholder="portada" [(ngModel)]="libro.Portada" formControlName="Portada" required type="text" class="bg-gray-700 text-gray-200 border-0 rounded-md p-2 mb-4 focus:bg-gray-600 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150 w-75">
+
+      <div *ngIf="libroForm.controls['NumeroPaginas'].touched && libroForm.controls['NumeroPaginas'].errors?.['required']" class="text-red-500 text-sm">El número de páginas es requerido</div>
+      <input placeholder="numero De Paginas" [(ngModel)]="libro.NumeroPaginas" formControlName="NumeroPaginas" required type="number" class="bg-gray-700 text-gray-200 border-0 rounded-md p-2 mb-4 focus:bg-gray-600 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150">
+
+      <div *ngIf="libroForm.controls['Precio'].touched && libroForm.controls['Precio'].errors?.['required']" class="text-red-500 text-sm">El precio es requerido</div>
+      <input placeholder="precio" formControlName="Precio" [(ngModel)]="libro.Precio" required type="number" class="bg-gray-700 text-gray-200 border-0 rounded-md p-2 mb-4 focus:bg-gray-600 focus:outline-none focus:ring-1 focus:ring-blue-500 transition ease-in-out duration-150">
+
+      <button (click)="Accion()" [disabled]="!libroForm.valid" class="bg-gradient-to-r from-indigo-500 to-blue-500 text-white font-bold py-2 px-4 rounded-md mt-4 hover:bg-indigo-600 hover:to-blue-600 transition ease-in-out duration-150">{{this.libroId != "" ? "Editar" : "Agregar"}}</button>
+    </div>
+  </div>
+
+</form>
+
+
+
+
+
+
+

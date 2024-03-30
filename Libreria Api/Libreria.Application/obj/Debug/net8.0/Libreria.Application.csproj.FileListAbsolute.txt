@@ -1,0 +1,38 @@
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Application.deps.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Application.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.DEAC79C3.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\obj\Debug\net8.0\refint\Libreria.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Application\obj\Debug\net8.0\ref\Libreria.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Application.deps.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Application.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\bin\Debug\net8.0\Libreria.Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.DEAC79C3.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\obj\Debug\net8.0\refint\Libreria.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\obj\Debug\net8.0\Libreria.Application.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Application\obj\Debug\net8.0\ref\Libreria.Application.dll

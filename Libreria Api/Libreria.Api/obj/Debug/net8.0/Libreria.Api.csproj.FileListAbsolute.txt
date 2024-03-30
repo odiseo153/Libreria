@@ -1,0 +1,206 @@
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Api.exe
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Api.deps.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Api.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Api.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Libreria.Api.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Libreria.Api.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Libreria.Api.props
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\scopedcss\bundle\Libreria.Api.styles.css
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.34BD0214.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\refint\Libreria.Api.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\obj\Debug\net8.0\ref\Libreria.Api.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\Newtonsoft.JsonResult.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Libreria Api\Libreria.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Api.exe
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Api.deps.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Api.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\MediatR.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Newtonsoft.JsonResult.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Application.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Core.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Infraestructure.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Application.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Core.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Libreria.Infraestructure.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.csproj.AssemblyReference.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets\msbuild.Libreria.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Libreria.Api.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Libreria.Api.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Libreria.Api.props
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\scopedcss\bundle\Libreria.Api.styles.css
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.34BD0214.Up2Date
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\refint\Libreria.Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.pdb
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\Libreria.Api.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\obj\Debug\net8.0\ref\Libreria.Api.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Problem.Details.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Odiseo\Desktop\Todo\Full Stack Proyects\Libreria\Libreria Api\Libreria.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

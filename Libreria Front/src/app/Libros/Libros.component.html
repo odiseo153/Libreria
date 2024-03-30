@@ -1,0 +1,134 @@
+<div class="container">
+  <h1 class="mt-2 text-center text-black text-5xl">Libros</h1>
+
+
+  <select
+    (click)="TraerLibroDeLista()"
+    [(ngModel)]="listaId"
+    class="form-select mt-5 rounded-md border border-gray-300 py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:ring-1"
+  >
+    <option value="">Selecciona una lista</option>
+    <option *ngFor="let item of listas" [value]="item.Id">
+      {{ item.Nombre }}
+    </option>
+  </select>
+
+  <div class="row col-12">
+    <div *ngIf="libros.length === 0 && loading" class="mt-3 alert alert-danger">
+      No hay Libros
+    </div>
+
+    <app-loading *ngIf="!loading" class="mt-5"></app-loading>
+
+    <div class="col-4" *ngFor="let item of libros">
+      <div
+        
+        class="mt-3 block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700"
+      >
+        <h5
+          class="mb-2 text-2xl font-bold tracking-tight text-gray-900 text-black"
+        >
+          {{ item.Titulo }} <a routerLink="/libros/{{ item.Id }}"> <i class="fa-solid fa-circle-info"></i> </a> 
+        </h5>
+
+        <button
+          (click)="EliminarLibro(item.Id)"
+          class="mt-2 inline-flex items-center px-4 py-2 bg-red-600 transition ease-in-out delay-75 hover:bg-red-700 text-white text-sm font-medium rounded-md hover:-translate-y-1 hover:scale-110"
+        >
+          <svg
+            stroke="currentColor"
+            viewBox="0 0 24 24"
+            fill="none"
+            class="h-5 w-5 mr-2"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"
+              stroke-width="2"
+              stroke-linejoin="round"
+              stroke-linecap="round"
+            ></path>
+          </svg>
+          Delete
+        </button>
+
+        <button
+          data-bs-toggle="modal"
+          data-bs-target="#exampleModal"
+          (click)="Open(item.Id, true)"
+          class="mt-2 ml-2 inline-flex items-center px-4 py-2 bg-green-600 transition ease-in-out delay-75 hover:bg-green-700 text-white text-sm font-medium rounded-md hover:-translate-y-1 hover:scale-110"
+        >
+          <i class="fa-solid fa-pencil p-1"></i>
+          Update
+        </button>
+
+      <button
+            data-bs-toggle="modal"
+            data-bs-target="#exampleModal"
+            (click)="EstablecerId(item.Id)"
+            class="mt-2 ml-2 items-center px-4 py-2 bg-blue-500 transition ease-in-out delay-75 hover:bg-blue-700 text-white text-sm font-medium rounded-md hover:-translate-y-1 hover:scale-110"
+          >
+            <i class="fa-solid fa-plus p-1"></i>
+            Agregar a lista
+          </button>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div
+  class="modal fade"
+  id="exampleModal"
+  tabindex="-1"
+  aria-labelledby="exampleModalLabel"
+  aria-hidden="true"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Selecciona La Lista</h5>
+        <button
+          (click)="Open('.', false)"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"
+        ></button>
+      </div>
+      <div class="modal-body">
+        <select
+          [(ngModel)]="relacion.idLista"
+          *ngIf="!editar"
+          class="form-select rounded-md border border-gray-300 py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:ring-1"
+        >
+          <option value="">Selecciona una lista</option>
+          <option *ngFor="let item of listas" [value]="item.Id">
+            {{ item.Nombre }}
+          </option>
+        </select>
+
+        <app-Agregar-libro *ngIf="editar"></app-Agregar-libro>
+      </div>
+      <div class="modal-footer">
+        <button
+          class="btn btn-secondary"
+          data-bs-dismiss="modal"
+          (click)="Open('.', false)"
+        >
+          Close
+        </button>
+        <button
+          *ngIf="!editar"
+          class="btn btn-primary"
+          data-bs-dismiss="modal"
+          (click)="Agregar_Libro_A_Lista()"
+        >
+          Agregar a lista
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+ 
