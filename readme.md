@@ -26,6 +26,7 @@ Dashboard
 ![imagen del dashboard](images/home.png)
 
 este es el sidebar en donde se ve los usuarios y las Lista De Lectura
+
 ![imagen del sidebar](images/expandibles.png)
 
 libros
